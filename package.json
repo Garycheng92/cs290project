@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Garycheng92/cs290project/issues"
   },
-  "homepage": "https://github.com/Garycheng92/cs290project#readme"
+  "homepage": "https://github.com/Garycheng92/cs290project#readme",
+  "dependencies": {
+    "node": "^14.5.0"
+  }
 }
